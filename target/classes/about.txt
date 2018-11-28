@@ -1,0 +1,20 @@
+
+This is a console application,
+that is able to determine medians
+in .csv records stored in input_files
+directory. 
+The application listens to user's
+commands. User has to type a letter
+or a number. Input is not 
+case-sensitive.
+The application can also create files
+with records about medians. Output
+files also have .csv format and are
+stored in output_files directory.
+
+***
+
+Developed by Alisher Aliev
+LinkedIn: in/alisheraliev
+GitHub: AlishStrong
+
